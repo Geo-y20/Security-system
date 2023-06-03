@@ -12,7 +12,7 @@ This project is a basic security system developed using Arduino and RFID technol
 
 ## Project Details
 - **Project Date**: March 2020
-- **GitHub Repository**: [Link to GitHub Repository](https://github.com/your-username/your-repository)
+- **GitHub Repository**: gh repo clone Geo-y20/Security-system
 
 ## Technologies Used
 - Arduino
